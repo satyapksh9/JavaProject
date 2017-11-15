@@ -16,6 +16,8 @@ public class CommitDemo {
 		// TODO Auto-generated method stub
 		
 		// To push
+		
+		// compare local with remote
 
 	}
 
